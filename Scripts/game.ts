@@ -53,7 +53,7 @@ function init() {
 	
 	plane.rotation.x = -0.5 * Math.PI;
 	plane.position.y = -2;
-	
+	//Adding Plane
 	scene.add(plane);
 	console.log("Added Plane Primative to scene...");
 	
