@@ -92,7 +92,7 @@ function addStatsObject() {
 
 // Setup main game loop
 function gameLoop():void {
-	stats.update();yuiyuiuy
+	stats.update();
 	
 	// render using requestAnimationFrame
 	requestAnimationFrame(gameLoop);
